@@ -1,2 +1,2 @@
-# applied-math
-repository for applied-math scripts - computing
+# Aplicações de Matematica - Python
+
