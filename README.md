@@ -1,2 +1,2 @@
-# Aplicações de Matematica - Python
+# Aplicações de Matematica
 
